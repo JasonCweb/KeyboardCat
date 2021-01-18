@@ -1,0 +1,10 @@
+body, html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.wrapper{max-width:750px;border:solid 1px #5691ef; width:50%; height:52.4%;max-width:750px;top: 23.8%; left: 27.1%; position: absolute;}
+
+canvas {width:750px; height:500px;max-width:750px;top: 25%; left: 25%; }
+
